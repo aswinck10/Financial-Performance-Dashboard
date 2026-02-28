@@ -1,32 +1,56 @@
-📊 Financial Performance Dashboard
-📌 Overview
+Financial Performance Executive Dashboard
+🔍 Overview
 
-This project analyses financial performance data to monitor revenue, profit, profit margin, and regional trends using Power BI.
+This project presents an executive-level financial performance dashboard built in Power BI. The dashboard provides a high-level summary of revenue, customer activity, and sales trends, enabling strategic business decision-making.
 
-🛠 Data Preparation
+📌 Key Features
 
-Cleaned 10,000+ records using Power Query
+Company-level KPIs (Revenue, Orders, Customers, Avg Order Value)
 
-Standardised financial metrics
+Regional revenue breakdown
 
-Built relational data model
+Category-level performance comparison
 
-📈 KPIs Developed
+Monthly revenue trend analysis
 
-Total Sales
+Interactive slicers for dynamic filtering
 
-Total Profit
+🧮 Technical Implementation
 
-Profit Margin %
+Data cleaning and transformation in Power Query
 
-Month-on-Month Growth
+DAX measures for:
 
-💡 Key Insights
+Total Revenue
 
-Identified 12% profitability variation across regions
+Distinct Orders
 
-Highlighted highest performing product category
+Distinct Customers
 
-🔧 Tools Used
+Average Order Value
 
-Power BI | DAX | Power Query
+Interactive filter context management
+
+Executive-style dashboard layout
+
+📈 Business Insights
+
+West region generates the highest revenue contribution
+
+Technology category leads overall product performance
+
+Revenue shows seasonal volatility with peaks in February and August
+
+South region presents potential growth opportunity
+
+🛠 Tools Used
+
+Power BI Desktop
+
+DAX (Data Analysis Expressions)
+
+Power Query
+
+🎯 Objective
+
+To design an executive-ready dashboard that translates transactional sales data into actionable business insights.
